@@ -15,8 +15,9 @@
     <?php include 'menu.php';?>
     <p class="title">Cancer Detection in Major Organs</p>
     <p class="university">
-      University of Nevada, Reno<br/>
-      Department of Computer Science
+      University of Nevada, Reno <br/>
+      Department of Computer Science <br/>
+      CS 426 Senior Project Spring 2021
     </p>
     <p class="people">
       Team # 14: Shawn Ray, Ethan Brown, Christian Greenman, Miguel Hernandez <br/>
