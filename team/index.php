@@ -26,7 +26,7 @@
           <p class="text">Description</p>
         </div>
         <div>
-          <img src="../images/person.png" alt="image of team member" />
+          <img src="../images/christian.jpg" alt="image of team member" />
           <p class="title">Christian Greenman</p>
           <p class="text">Description</p>
         </div>
