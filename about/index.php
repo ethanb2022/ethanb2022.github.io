@@ -18,6 +18,13 @@
       <p>
         The goal of this project is to create software that can be used by doctors and radiologists to aid in cancer diagnoses.  When using the software, doctors will be able to upload a DICOM image from their computer or other machine, and put that image through one of many binary cancer detection networks for the respective organ that the image corresponds to.  When the binary cancer detection network is finished, the software will display the image once again, and highlight potential points of interest that might be cancerous.  
       </p>
+      <p class="title">Resources</p>
+      <p>
+        <a href="https://portal.gdc.cancer.gov/">GDC data access</a><br/>
+        <a href="https://www.ncbi.nlm.nih.gov/">NCBI data access</a><br/>
+        <a href="https://scholar.harvard.edu/synho/publications/machine-learning-powered-automatic-organ-classification-patient-specific-organ">Organ Classification using Machine Learning</a><br/>
+      </p>
+
     </div>
   </body>
 </html>
