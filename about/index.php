@@ -5,9 +5,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta
       name="description"
-      content="2021 UNR Senior Project Website for Group 14"
+      content="about team 14 senior project"
     />
-    <title>Group 14</title>
+    <link rel="stylesheet" href="../style.css">
+    <title>Group 14 | About</title>
     <style>
       p.title {
         text-align: center;
@@ -33,23 +34,9 @@
     </style>
   </head>
   <body>
-    <p class="title">Cancer Detection in Major Organs</p>
-    <p class="university">
-      University of Nevada, Reno
-      <br />
-      Department of Computer Science
-    </p>
-    <p class="people">
-      Team # 14: Shawn Ray, Ethan Brown, Christian Greenman, Miguel Hernandez
-      <br />
-      Instructors: Dr. David Feil-Seifer, Devrin Lee
-      <br />
-      Advisors: Dr. Tin Nguyen, Dr. Mark Riddle
-    </p>
-    <a class="about" href="about.html">About our project</a>
-    <br />
-    <br />
-    <br />
-    <a class="team" href="team.html">About the team</a>
+    <?php include '../menu.php';?>
+    <div class="container">
+      <p class="title">About</p>
+    </div>
   </body>
 </html>
