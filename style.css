@@ -1,5 +1,6 @@
 body {
   margin: 0;
+  font-family: sans-serif;
 }
 p.title {
   text-align: center;
@@ -75,4 +76,13 @@ div.container {
 
 #team-flex div img {
   width: 150px;
+}
+p a {
+  text-decoration: none;
+  font-size: large;
+  color: #16c;
+  font-weight: bold;
+}
+p a:hover {
+  text-decoration: underline;
 }
